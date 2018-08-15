@@ -1,4 +1,4 @@
-# Project 1 - *Grab Landing Page with Flecbox*
+# Project 1 - *Grab Landing Page with Flexbox*
 
 Time spent: **6** hours spent in total
 
